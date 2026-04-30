@@ -1,0 +1,280 @@
+{
+  "brand": {
+    "name": "SkynetLabs Restaurant Demo",
+    "tagline": "Lowcountry tasting-counter dining"
+  },
+  "niche": "restaurant",
+  "niche_label": "Restaurant",
+  "location": {
+    "city": "Charleston",
+    "region": "SC",
+    "country": "US"
+  },
+  "owner": {
+    "name": "Waseem Nasir",
+    "agency": "SkynetLabs",
+    "fiverr_url": "https://www.fiverr.com/agencies/skynetjoellc",
+    "hub_url": "https://skynetjoe.com",
+    "contact_email": "waseembali2k26@gmail.com",
+    "contact_phone": "+1-843-555-0327"
+  },
+  "palette": {
+    "bg": "#F4EFE6",
+    "surface": "#FFFFFF",
+    "ink": "#1A1614",
+    "accent": "#7A1F1F",
+    "detail": "#B8985A"
+  },
+  "fonts": {
+    "display": "Cormorant Garamond",
+    "body": "Inter",
+    "mono": null
+  },
+  "dark_mode": false,
+  "hero": {
+    "kind": "cinemagraph",
+    "h1": "Eight courses. *One* table. Lowcountry, reimagined.",
+    "sub": "Single-seating tasting menu. Wine library pairings. Reservations by Counter only.",
+    "photo_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1920&auto=format&fit=crop&q=80",
+    "photo_credit": "Photo by Jay Wennington on Unsplash",
+    "cinemagraph_url": null,
+    "overlay": "rgba(28,22,18,0.20)",
+    "focal_point": "center"
+  },
+  "hero_3d": null,
+  "copy": {
+    "primary_cta": "Reserve the Counter →",
+    "primary_cta_href": "#contact",
+    "secondary_cta": "Next available — Thursday, 7:30 PM",
+    "secondary_cta_href": "tel:+18435550327",
+    "sticky_mobile_bar": "Reserve — (843) 555-0327"
+  },
+  "trust_strip": [
+    "James Beard Foundation Semifinalist",
+    "Michelin Recommended",
+    "Wine Spectator Award of Excellence",
+    "Condé Nast Traveler Hot List",
+    "Garden & Gun · Robb Report"
+  ],
+  "service_area": {
+    "primary_city": "Charleston, SC",
+    "service_area_cities": [
+      "Mount Pleasant, SC",
+      "Sullivan's Island, SC",
+      "Isle of Palms, SC",
+      "Daniel Island, SC",
+      "James Island, SC",
+      "Folly Beach, SC",
+      "Kiawah Island, SC",
+      "Seabrook Island, SC",
+      "Johns Island, SC",
+      "West Ashley, SC",
+      "North Charleston, SC",
+      "Summerville, SC",
+      "Goose Creek, SC",
+      "Hanahan, SC",
+      "Awendaw, SC",
+      "McClellanville, SC",
+      "Wadmalaw Island, SC",
+      "Edisto Island, SC",
+      "Hilton Head, SC",
+      "Beaufort, SC",
+      "Bluffton, SC",
+      "Pawleys Island, SC",
+      "Murrells Inlet, SC",
+      "Georgetown, SC",
+      "Myrtle Beach, SC",
+      "Savannah, GA",
+      "Tybee Island, GA",
+      "Hilton Head Plantation, SC",
+      "Asheville, NC",
+      "Atlanta, GA"
+    ]
+  },
+  "services": [
+    {
+      "slug": "the-counter",
+      "title": "The Counter (8-course)",
+      "blurb": "Eight courses, twelve seats, two seatings per night. Watching the kitchen build the meal is part of the meal. Menu changes weekly with the lowcountry farms and water — never a permanent printed list. $185 per person, $295 with paired wine flight. Reservations open 30 days in advance and fill in hours."
+    },
+    {
+      "slug": "chefs-garden",
+      "title": "Chef's Garden (12-course vegetable)",
+      "blurb": "A 12-course tasting menu rooted entirely in vegetables, fermentations, and grains from our Wadmalaw Island partner farm and our own Charleston rooftop garden. Available Thursday through Saturday by reservation. Demonstrates that lowcountry vegetable cooking is not a substitute — it is its own discipline."
+    },
+    {
+      "slug": "wine-library",
+      "title": "Wine Library Pairing",
+      "blurb": "Library pairings drawn from a 4,200-bottle cellar weighted toward natural and biodynamic European producers, complemented by serious Carolina and Virginia bottles. Sommelier Dominic Reedy (former Husk, former Eleven Madison Park) builds the pairing in real time."
+    },
+    {
+      "slug": "carriage-house",
+      "title": "Private Carriage House Dining",
+      "blurb": "A private 14-seat dining room in the original 1834 carriage house behind the main restaurant. Available for engagement dinners, corporate hosting, and small celebrations. Custom menu built with the chef. Used by clients who quietly want the best private dining in the South."
+    },
+    {
+      "slug": "the-larder",
+      "title": "The Larder (provisions retail)",
+      "blurb": "A small retail counter at the back of the restaurant — house-made vinegars, fermentations, charcuterie, cured fish, and weekly bread. Available for purchase during service hours. Cataloged on our website for guests who want to take a piece of the meal home — and many do."
+    },
+    {
+      "slug": "fermentation-lab-tour",
+      "title": "Fermentation Lab Tours",
+      "blurb": "Monthly two-hour tours of our fermentation laboratory and rooftop garden led by our chef de cuisine. Twelve guests maximum. Hands-on with our miso, koji, vinegar, and shoyu programs. Followed by a snack tasting paired with our own ferments. Tickets release on the first of each month."
+    }
+  ],
+  "process": [
+    {
+      "n": 1,
+      "title": "Reservation request",
+      "blurb": "Available 30 days in advance through our reservation portal. Counter and Chef's Garden seatings released at 9:00 AM Eastern, first day of the month."
+    },
+    {
+      "n": 2,
+      "title": "Pre-arrival contact",
+      "blurb": "We email 72 hours before your reservation to confirm allergies, occasion notes, and pairing preferences. Personalized service begins before you arrive."
+    },
+    {
+      "n": 3,
+      "title": "The meal",
+      "blurb": "Seating begins at 7:00 or 9:30. Eight or twelve courses delivered with menu narration from the chef and pairing context from the sommelier."
+    },
+    {
+      "n": 4,
+      "title": "Post-meal follow-up",
+      "blurb": "We follow up the morning after every meal — recipe sharing if requested, advance booking for return visits, and remembered notes for your next reservation."
+    }
+  ],
+  "case_study": {
+    "title": "Out-of-Town Pilgrim — Flew from Seattle for One Counter Seating",
+    "photo_url": "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=1920&auto=format&fit=crop&q=80",
+    "quote": "I flew from Seattle to Charleston for the Tuesday night Counter seating and flew home Wednesday morning. The eight-course meal was the most considered eight courses I have eaten in twenty years of restaurant pilgrimages. The flight was the easy part of the trip.",
+    "stats": [
+      {
+        "value": "8",
+        "label": "Courses · Counter seating"
+      },
+      {
+        "value": "1",
+        "label": "Seatings per night"
+      },
+      {
+        "value": "Weekly",
+        "label": "Menu rotation cadence"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "I flew from Seattle for one Tuesday-night seating. Eight courses, two and a half hours, and the most considered meal I have had in two decades of restaurant pilgrimages. Booked the return visit before I left the table.",
+      "name": "Jonas H.",
+      "role": "Out-of-town pilgrim",
+      "city": "Seattle, WA → Charleston, SC"
+    },
+    {
+      "quote": "Proposed to my partner at the Counter on our anniversary. The team prepared a hand-lettered menu, a course inspired by the place we met, and a perfectly choreographed moment that did not feel choreographed at all. Different kind of dining experience.",
+      "name": "Daniel + Eli",
+      "role": "Anniversary couple",
+      "city": "Charleston, SC"
+    },
+    {
+      "quote": "I run a Michelin two-star kitchen and dined at the Counter on a rare night off. The fermentation work, the unobtrusive service, and the willingness to push beyond Southern-cooking shorthand make this the most interesting tasting menu in the American South. Quietly excellent.",
+      "name": "Chef A.",
+      "role": "Industry peer",
+      "city": "New York, NY"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far in advance can I book?",
+      "a": "Reservations open 30 days in advance at 9:00 AM Eastern on the first of each month. Counter and Chef's Garden seatings typically fill within hours. The waitlist often opens up day-of cancellations — we encourage joining it."
+    },
+    {
+      "q": "Is the tasting menu the only option?",
+      "a": "Yes. The Counter is an 8-course set menu and the Chef's Garden is a 12-course vegetable tasting. We do not offer a separate à la carte service. The menu is the experience and the experience is the menu."
+    },
+    {
+      "q": "Do you accommodate dietary restrictions?",
+      "a": "Yes — and well. We confirm allergies and dietary preferences during pre-arrival contact 72 hours in advance and the kitchen builds your menu to your specifications. Vegetarian, vegan, gluten-free, and most allergen-restricted menus are routinely accommodated."
+    },
+    {
+      "q": "What is the dress code?",
+      "a": "Smart casual. We do not require jackets but most guests dress for a special occasion. Coastal lowcountry summers permit linen and open-collar; winters welcome heavier suiting and dresses."
+    },
+    {
+      "q": "Is parking validated?",
+      "a": "Valet parking available at the front entrance for $15. Self-parking is available in the public lot one block south on East Bay Street. We are within walking distance of most downtown Charleston hotels."
+    },
+    {
+      "q": "Can children attend the Counter?",
+      "a": "Children 12 and over are welcome at the Counter. The Chef's Garden seatings are 16 and over. Younger children are warmly welcomed for private events in the Carriage House where service can be calibrated to the family."
+    },
+    {
+      "q": "How long is the experience?",
+      "a": "Counter seatings run 2 to 2.5 hours. Chef's Garden seatings run 3 hours. Wine library pairings extend the experience by 30 to 45 minutes. We do not rush courses and the kitchen pacing is part of the design."
+    },
+    {
+      "q": "What is the cancellation policy?",
+      "a": "48-hour cancellation policy. Cancellations within 48 hours are charged the full prix-fixe per guest. We rebook canceled seats from the waitlist when timing permits — but our crew shopped, prepared, and staffed for your seating."
+    }
+  ],
+  "lead_magnet": {
+    "title": "The Lowcountry Diner's Field Guide",
+    "subtitle": "Twelve restaurants in Charleston worth the travel — and what to order at each. 16 pages.",
+    "cta": "Get the guide →"
+  },
+  "photos": {
+    "hero": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1920&auto=format&fit=crop&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1543353071-873f17a7a088?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1547573854-74d2a71d0826?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1280&auto=format&fit=crop&q=80"
+    ]
+  },
+  "competitors": [
+    "https://www.wildcommoncharleston.com/",
+    "https://www.honeysucklerosechs.com/",
+    "https://circa1886.com/",
+    "https://huskcharleston.com/",
+    "http://mccradysrestaurant.com/"
+  ],
+  "anti_patterns": [
+    "Script-font logos",
+    "Parallax stock-food montages",
+    "Autoplay banjo/jazz audio"
+  ],
+  "modules": {
+    "booking_calendar": true,
+    "service_area_map": false,
+    "photo_gallery": true,
+    "faq": true,
+    "lead_magnet": true
+  },
+  "contact": {
+    "form_endpoint": "https://api.web3forms.com/submit",
+    "calendly_url": "https://calendly.com/skynetlabs-demo/15min"
+  },
+  "seo": {
+    "title": "Tasting Counter Charleston | 8-Course Lowcountry | SkynetLabs",
+    "description": "Twelve-seat tasting counter in Charleston. Eight-course Lowcountry tasting menu. Reservations open 30 days in advance.",
+    "keywords": [
+      "charleston tasting menu",
+      "fine dining charleston",
+      "tasting counter charleston",
+      "michelin charleston",
+      "wine pairing charleston"
+    ],
+    "noindex": true
+  },
+  "demo_disclosure": {
+    "enabled": true,
+    "fiverr_cta_url": "https://www.fiverr.com/agencies/skynetjoellc?utm_source=demo&utm_campaign=restaurant",
+    "contact_cta_url": "https://skynetjoe.com/contact?utm_source=demo&utm_campaign=restaurant",
+    "portfolio_url": "https://skynetjoe.com/portfolio"
+  }
+}
